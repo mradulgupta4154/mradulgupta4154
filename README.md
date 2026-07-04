@@ -17,8 +17,8 @@ B.Tech Computer Science Student @ ZHCET, AMU
 I'm a Computer Science undergraduate at **Zakir Husain College of Engineering & Technology, AMU**, passionate about building projects that solve real problems and sharpen my programming fundamentals.
 
 - 🌱 Currently deepening my skills in software development and data-driven applications
-- 💬 Ask me about Python, C++, or JavaScript
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mradul-gupta)
+- 💬 Python, C++, or JavaScript
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/mradul-gupta-b9932b3b9)
 
 ---
 
