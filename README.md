@@ -18,7 +18,7 @@ I'm a Computer Science undergraduate at **Zakir Husain College of Engineering & 
 
 - 🌱 Currently deepening my skills in software development and data-driven applications
 - 💬 Python, C++, or JavaScript
-- 📫 Reach me on [LinkedIn]("www.linkedin.com/in/mradul-gupta4154")
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mradul-gupta4154)
 
 ---
 
