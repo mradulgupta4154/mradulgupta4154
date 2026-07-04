@@ -5,7 +5,7 @@ B.Tech Computer Science Student @ ZHCET, AMU
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mradul-gupta">
+  <a href="www.linkedin.com/in/mradul-gupta4154">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
 </p>
@@ -18,7 +18,7 @@ I'm a Computer Science undergraduate at **Zakir Husain College of Engineering & 
 
 - 🌱 Currently deepening my skills in software development and data-driven applications
 - 💬 Python, C++, or JavaScript
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/mradul-gupta-b9932b3b9)
+- 📫 Reach me on [LinkedIn]("www.linkedin.com/in/mradul-gupta4154")
 
 ---
 
