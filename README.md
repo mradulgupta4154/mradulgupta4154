@@ -5,7 +5,7 @@ B.Tech Computer Science Student @ ZHCET, AMU
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/mradul-gupta4154">
+  <a href="https://www.linkedin.com/in/mradul-gupta4154">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
 </p>
