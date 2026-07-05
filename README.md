@@ -43,12 +43,12 @@ A twist on classic Tic Tac Toe where each player's oldest move disappears after 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mradulgupta4154&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mradulgupta4154&show_icons=true&theme=default&cache_seconds=0" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mradulgupta4154" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mradulgupta4154&layout=compact" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mradulgupta4154&layout=compact&cache_seconds=0" width="50%" />
 </p>
 
 ---
