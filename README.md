@@ -44,7 +44,7 @@ A twist on classic Tic Tac Toe where each player's oldest move disappears after 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mradulgupta4154&show_icons=true&theme=default&cache_seconds=0" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mradulgupta4154" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Mradulgupta4154" width="48%" />
 </p>
 
 <p align="center">
