@@ -1,7 +1,10 @@
 # 💫 About Me:
 🚀 A passionate developer currently sharpening my skills in **JavaScript, C++, Python, and MySQL**
+</br>
 🎮 Built **Vanishing Tic Tac Toe** — a twist on the classic game using HTML, CSS, and JavaScript
+</br>
 🌱 Always exploring new technologies and improving my problem-solving skills through coding challenges
+</br>
 📫 Open to collaborating on interesting projects — feel free to reach out!
 
 
@@ -44,6 +47,7 @@
  
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
