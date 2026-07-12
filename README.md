@@ -1,5 +1,8 @@
 # 💫 About Me:
+🎓 I'm a Computer Science undergraduate at **Zakir Husain College of Engineering & Technology, AMU**
+</br>
 🚀 A passionate developer currently sharpening my skills in **JavaScript, C++, Python, and MySQL**
+
 </br>
 🎮 Built **Vanishing Tic Tac Toe** — a twist on the classic game using HTML, CSS, and JavaScript
 </br>
