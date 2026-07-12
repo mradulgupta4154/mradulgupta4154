@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mradul-gupta4154?utm_source=share_via&utm_content=profile&utm_medium=member_android)</br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mradulgupta387a@gmail.com)</br> [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/MRADUL_GUPTA1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mradul-gupta4154?utm_source=share_via&utm_content=profile&utm_medium=member_android)</br></br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mradulgupta387a@gmail.com)</br></br> [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/MRADUL_GUPTA1)
 
 # 💻 Tech Stack:
 
@@ -65,4 +65,4 @@
 ---
 
 
-[![](https://komarev.com/ghpvc/?username=mradulgupta4154&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mradulgupta4154&icon=0&color=blue)](https://visitcount.itsvg.in)
