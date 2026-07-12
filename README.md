@@ -1,3 +1,4 @@
+<h1 align="center">Hi, I'm Mradul Gupta 👋</h1>
 # 💫 About Me:
 🎓 I'm a Computer Science undergraduate at **Zakir Husain College of Engineering & Technology, AMU**
 </br>
