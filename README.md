@@ -1,4 +1,4 @@
-![Hi, I'm Mradul Gupta 👋](./assets/pouring-sand-heading.svg)
+<h1>Hi, I'm Mradul Gupta 👋</h1>
 # 💫 About Me:
 🎓 I'm a Computer Science undergraduate at **Zakir Husain College of Engineering & Technology, AMU**
 </br>
