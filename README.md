@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mradul-gupta4154?utm_source=share_via&utm_content=profile&utm_medium=member_android)</br></br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mradulgupta387a@gmail.com)</br></br> 
 # 💻 Tech Stack:
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
