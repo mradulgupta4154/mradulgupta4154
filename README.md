@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🚀 A passionate developer currently sharpening my skills in **JavaScript, C++, Python, and MySQL**
+🚀 A passionate developer currently sharpening my skills in **JavaScript, C++, C, Python, and MySQL**
 </br>
 🎮 Built **Vanishing Tic Tac Toe** — a twist on the classic game using HTML, CSS, and JavaScript
 </br>
