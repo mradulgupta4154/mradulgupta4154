@@ -29,6 +29,7 @@
 <a href="https://www.codechef.com/users/mradul_gupta1" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/><br><br>
 </a>
+
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
