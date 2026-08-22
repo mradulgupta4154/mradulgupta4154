@@ -12,7 +12,23 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mradul-gupta4154?utm_source=share_via&utm_content=profile&utm_medium=member_android)</br></br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mradulgupta387a@gmail.com)</br></br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mradul-gupta4154?utm_source=share_via&utm_content=profile&utm_medium=member_android)</br></br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mradulgupta387a@gmail.com)</br>
+
+<a href="https://codeforces.com/profile/MRADUL_GUPTA1" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a><br><br>
+<a href="https://leetcode.com/MRADUL_GUPTA1" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a><br><br>
+<a href="https://www.geeksforgeeks.org/user/mradulgupta1" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a><br><br>
+<a href="https://www.hackerrank.com/MRADUL_GUPTA2" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a><br><br>
+<a href="https://www.codechef.com/users/mradul_gupta1" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/><br><br>
+</a>
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
